@@ -2,4 +2,4 @@
 SKIPUNZIP=0
 MODDIR=${0%/*}
 
-ui_print "- Installing++..."
+ui_print "- Installing..."
